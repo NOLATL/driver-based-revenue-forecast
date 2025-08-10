@@ -1,0 +1,12 @@
+matplotlib
+numpy
+pandas
+plotly
+pmdarima
+pycaret
+requests
+seaborn
+scikit-learn
+statsmodels
+prophet
+pycaret[time_series]

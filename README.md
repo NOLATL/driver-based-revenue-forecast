@@ -75,7 +75,7 @@ This framework:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/driver-based-forecast.git
+   git clone https://github.com/NOLATL/driver-based-forecast.git
    cd driver-based-forecast
    ```
 
@@ -103,5 +103,6 @@ This framework:
 
    * Open the notebook in Jupyter.
    * Select `Kernel > Restart & Run All` to execute the analysis from start to finish.
+
 
 ```

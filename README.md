@@ -103,6 +103,3 @@ This framework:
 
    * Open the notebook in Jupyter.
    * Select `Kernel > Restart & Run All` to execute the analysis from start to finish.
-
-
-```
